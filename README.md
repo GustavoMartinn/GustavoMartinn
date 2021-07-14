@@ -30,7 +30,7 @@ object **GUSTAVO** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/GustavoMartinn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMartinn&theme=dracula&hide_langs_below=10&locale=pt-br&hide=Makefile,Dockerfile" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMartinn&theme=dracula&locale=pt-br&hide=Makefile,Dockerfile" />
 </a>
 
 <a href="https://github.com/GustavoMartinn">
