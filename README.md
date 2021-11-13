@@ -37,18 +37,24 @@ object **GUSTAVO** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoMartinn&show_icons=true&theme=dracula&line_height=27&locale=pt-br" alt="**GUSTAVO** github stats"/>
 </a>
 
+## Redes Sociais
+
+<img alt="about" src="https://www.codewars.com/users/GustavoMartinn/badges/small"/>
+
 <!-- [twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/ -->
-<!-- [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/ -->
-<br>
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/ -->
+[instagram]: https://www.instagram.com/gumartin29/
+[linkedin]: https://www.linkedin.com/in/gustavo-martinn/
+[codewars]: https://www.codewars.com/users/GustavoMartinn
 
 <!-- #### Rede Sociais! -->
 
 <!-- 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|**  -->
-<!-- 👔 [linkedin][linkedin] -->
-<br>
+📺 [youtube][youtube] **|**  -->
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin] **|** 
+🏅 [codewars][codewars]
+<br/>
+<br/>
 <a href="https://icons8.com/icon/JesOX3f2LVdM/usuário-homem-com-círculo">Icons by Icons8</a>
