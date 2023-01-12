@@ -29,13 +29,11 @@ object **GUSTAVO** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/GustavoMartinn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMartinn&theme=dracula&&langs_count=10&locale=pt-br&hide=Makefile,Dockerfile" />
-</a>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavomartinn&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavomartinn&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavomartinn&theme=dracula) |
+| :-: | :-: | :-: |
 
-<a href="https://github.com/GustavoMartinn">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoMartinn&show_icons=true&theme=dracula&line_height=27&locale=pt-br" alt="**GUSTAVO** github stats"/>
-</a>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavomartinn&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=gustavomartinn&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&currStreakNum=fff&sideNums=F06C96&currStreakLabel=F06C96&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 ## Redes Sociais
 
